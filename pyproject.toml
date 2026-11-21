@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+# Keep this to the essentials: real errors (E), pyflakes (F) and import sorting (I).
+# FastAPI's `Depends(...)` in argument defaults and similar idioms trip up stricter
+# rule sets (B, UP, SIM, RUF) without being actual bugs, so they're left unselected.
+select = ["E", "F", "I"]

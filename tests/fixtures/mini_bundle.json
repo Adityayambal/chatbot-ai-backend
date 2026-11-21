@@ -1,0 +1,277 @@
+{
+  "statusCode": 200,
+  "isSuccess": true,
+  "message": "Success",
+  "result": [
+    {
+      "cp_id": "cp0000000000000000000001",
+      "cpName": "ENG 9 MH Science & Technology (fixture)",
+      "planId": "plan000000000000000000001",
+      "planName": "9th MH Test Translation - Plan",
+      "boardId": "board00000000000000000001",
+      "boardName": "Maharashtra Board",
+      "gradeId": "grade00000000000000000001",
+      "gradeName": "9",
+      "mediumId": "5e66619325dee915cc096249",
+      "mediumName": "English",
+      "subjectId": "subject0000000000000000001",
+      "subjectName": "Science & Technology",
+      "streamId": "",
+      "streamName": "",
+      "academicYear": "",
+      "curriculumVersion": "",
+      "languageCode": "",
+      "businessAccountId": "",
+      "isActive": false,
+      "retrievalConfiguration": {
+        "searchMode": "",
+        "topK": 0,
+        "minimumSimilarityThreshold": 0,
+        "deduplicateResults": true,
+        "enableSourceDiversification": true,
+        "allowCrossSubjectSearch": false,
+        "contentPriorityOrder": [
+          { "contentType": "pdf", "priority": 1, "weight": 1.0 },
+          { "contentType": "revision_note", "priority": 2, "weight": 0.9 },
+          { "contentType": "video_transcript", "priority": 3, "weight": 0.7 },
+          { "contentType": "question", "priority": 4, "weight": 0.5 },
+          { "contentType": "solution", "priority": 5, "weight": 0.4 }
+        ]
+      },
+      "chapters": [
+        {
+          "chapterId": "ch0000000000000000000001",
+          "chapterName": "Laws of Motion",
+          "chapterSequence": 1,
+          "ebookPdf": "https://toppscholar-upload.s3.ap-southeast-1.amazonaws.com/ebooks/ch-1-laws-of-motion.pdf",
+          "concepts": [
+            {
+              "conceptId": "co0000000000000000000001",
+              "conceptName": "Introduction to motion",
+              "conceptSequence": 1,
+              "ebookPdf": "",
+              "subConcepts": [
+                {
+                  "subConceptId": "sc0000000000000000000001",
+                  "subConceptName": "introduction to motion",
+                  "subConceptSequence": 0,
+                  "content": {
+                    "revisionNotes": [
+                      {
+                        "contentId": "rn0000000000000000000001",
+                        "languageCode": "",
+                        "updatedAt": "2026-09-04T08:55:01.408Z",
+                        "title": { "en": "Introduction to motion" },
+                        "noteText": [
+                          {
+                            "contentType": "Notes",
+                            "content": {
+                              "en": "<p>Motion: An object is said to be in motion if its position relative to its surroundings changes with time.&nbsp;</p><p>Speed is a scalar quantity. S.I. unit of speed is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi><mo>=</mo><mi>u</mi><mi>t</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>a</mi><msup><mi>t</mi><mn>2</mn></msup></math>, where symbols have their usual meaning.&nbsp;&nbsp;</p>"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "videoTranscripts": [
+                      {
+                        "contentId": "vt0000000000000000000001",
+                        "videoId": "10001",
+                        "duration": 180,
+                        "languageCode": "",
+                        "title": { "en": "Introduction to motion" },
+                        "transcriptText": "Hi friends. Welcome to Top Scholars, the smart learning app. Today we will be learning about introduction to motion. An object is said to be in motion if its position changes with time relative to its surroundings. Thanks for watching, see you in the next video.",
+                        "videoUrl": [
+                          { "contentType": "Video", "content": { "en": "https://player.vimeo.com/video/100010001" } },
+                          { "contentType": "NewVideo", "content": { "en": "aaaa1111bbbb2222cccc3333" } }
+                        ],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      }
+                    ],
+                    "questions": [
+                      {
+                        "questionId": "q0000000000000000000001",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>What is the SI unit of speed?</p>" },
+                        "solutionDescription": { "en": "<p>The correct answer is Meter per second (m/s).</p>" },
+                        "solutionIndex": [1],
+                        "difficultyLevel": 2,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      },
+                      {
+                        "questionId": "q0000000000000000000002",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>An object is at rest when its position&nbsp;</p>" },
+                        "solutionDescription": { "en": "<p>The correct answer is: does not change relative to its surroundings.</p>" },
+                        "solutionIndex": [2],
+                        "difficultyLevel": 1,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      }
+                    ],
+                    "images": [],
+                    "pdfs": [],
+                    "solutions": [],
+                    "tables": []
+                  }
+                }
+              ]
+            },
+            {
+              "conceptId": "co0000000000000000000002",
+              "conceptName": "Distance and displacement",
+              "conceptSequence": 2,
+              "ebookPdf": "",
+              "subConcepts": [
+                {
+                  "subConceptId": "sc0000000000000000000002",
+                  "subConceptName": "distance and displacement",
+                  "subConceptSequence": 0,
+                  "content": {
+                    "revisionNotes": [
+                      {
+                        "contentId": "rn0000000000000000000002",
+                        "languageCode": "",
+                        "updatedAt": "2026-09-04T08:55:01.408Z",
+                        "title": { "en": "Distance and displacement" },
+                        "noteText": [
+                          {
+                            "contentType": "Notes",
+                            "content": {
+                              "en": "<p>Distance is the total path length covered by a body.&nbsp;Displacement is the shortest straight-line distance between the initial and final position.</p><p><img src=\"https://example-bucket.s3.amazonaws.com/images/distance-vs-displacement.png\" alt=\"distance vs displacement diagram\" /></p><table border=\"1\"><tbody><tr><td>&nbsp;</td><td>Distance</td><td>Displacement</td></tr><tr><td>Type</td><td>Scalar</td><td>Vector</td></tr><tr><td>Value</td><td>&ge; displacement</td><td>&le; distance</td></tr></tbody></table>"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "videoTranscripts": [
+                      {
+                        "contentId": "vt0000000000000000000002",
+                        "videoId": "10002",
+                        "duration": 240,
+                        "languageCode": "",
+                        "title": { "en": "Distance and displacement" },
+                        "transcriptText": "Hi friends. Welcome to Top Scholars, the smart learning app. Today we compare distance and displacement with examples from daily life, like walking around a park. Distance is always greater than or equal to displacement. Thank you for watching, see you in the next video.",
+                        "videoUrl": [
+                          { "contentType": "Video", "content": { "en": "https://player.vimeo.com/video/100020002" } },
+                          { "contentType": "NewVideo", "content": { "en": "dddd4444eeee5555ffff6666" } }
+                        ],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      }
+                    ],
+                    "questions": [
+                      {
+                        "questionId": "q0000000000000000000003",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>What is the difference between distance and displacement?</p>" },
+                        "solutionDescription": { "en": "<p>Distance is scalar and is the total path length; displacement is vector and is the shortest path between initial and final positions.</p>" },
+                        "solutionIndex": [1],
+                        "difficultyLevel": 3,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      },
+                      {
+                        "questionId": "q0000000000000000000004",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>What is the SI unit of speed?&nbsp;</p>" },
+                        "solutionDescription": { "en": "<p>The correct answer is Meter per second (m/s). Speed is measured in meters per second.</p>" },
+                        "solutionIndex": [1],
+                        "difficultyLevel": 2,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      }
+                    ],
+                    "images": [],
+                    "pdfs": [],
+                    "solutions": [],
+                    "tables": []
+                  }
+                },
+                {
+                  "subConceptId": "sc0000000000000000000003",
+                  "subConceptName": "numerical on distance and displacement",
+                  "subConceptSequence": 1,
+                  "content": {
+                    "revisionNotes": [],
+                    "videoTranscripts": [],
+                    "questions": [],
+                    "images": [],
+                    "pdfs": [],
+                    "solutions": [],
+                    "tables": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterId": "ch0000000000000000000002",
+          "chapterName": "Force and Laws of Motion",
+          "chapterSequence": 2,
+          "ebookPdf": "",
+          "concepts": [
+            {
+              "conceptId": "co0000000000000000000003",
+              "conceptName": "Newton's second law of motion",
+              "conceptSequence": 1,
+              "ebookPdf": "",
+              "subConcepts": [
+                {
+                  "subConceptId": "sc0000000000000000000004",
+                  "subConceptName": "newton's second law of motion",
+                  "subConceptSequence": 0,
+                  "content": {
+                    "revisionNotes": [
+                      {
+                        "contentId": "rn0000000000000000000003",
+                        "languageCode": "",
+                        "updatedAt": "2026-09-04T08:55:01.408Z",
+                        "title": { "en": "Newton's second law of motion" },
+                        "noteText": [
+                          {
+                            "contentType": "Notes",
+                            "content": {
+                              "en": "<p>Newton's second law states that the rate of change of momentum of a body is directly proportional to the applied force.&nbsp;</p><p>It is written as <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>F</mi><mo>=</mo><mi>m</mi><mi>a</mi></math>, where <strong>F</strong> is force, <strong>m</strong> is mass and <strong>a</strong> is acceleration.</p>"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "videoTranscripts": [],
+                    "questions": [
+                      {
+                        "questionId": "q0000000000000000000005",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>State Newton's second law of motion.</p>" },
+                        "solutionDescription": { "en": "<p>The rate of change of momentum of a body is directly proportional to the applied force and takes place in the direction of the force.</p>" },
+                        "solutionIndex": [1],
+                        "difficultyLevel": 3,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      },
+                      {
+                        "questionId": "q0000000000000000000006",
+                        "questionType": "objective",
+                        "questionText": { "en": "<p>A force of 10 N acts on a mass of 2 kg. Find the acceleration produced.</p>" },
+                        "solutionDescription": { "en": "<p>Using F = ma, a = F/m = 10/2 = 5 m/s&sup2;.</p>" },
+                        "solutionIndex": [3],
+                        "difficultyLevel": 4,
+                        "languageCode": ["5e66619325dee915cc096249"],
+                        "updatedAt": "2026-09-04T08:55:01.408Z"
+                      }
+                    ],
+                    "images": [],
+                    "pdfs": [],
+                    "solutions": [],
+                    "tables": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
